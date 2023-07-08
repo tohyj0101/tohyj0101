@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Toh Yong Jie
-#### Diploma in Infocomm Security Management Graduate
+#### A Diploma in Infocomm Security Management Graduate
 ![RP](.png)
 
 Singaporean
