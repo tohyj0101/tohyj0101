@@ -16,13 +16,11 @@ Skills: Cybersecurity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tohyj0101&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tohyj0101)  
-
 ![GitHub metrics](https://metrics.lecoq.io/tohyj0101)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tohyj0101)  
 
-![Profile views](https://gpvc.arturio.dev/tohyj0101)  
+![Profile views](https://komarev.com/ghpvc/?username=tohyj0101&color=7fab11)
 
 <!--
 **tohyj0101/tohyj0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
