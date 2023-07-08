@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Toh Yong Jie
-#### RP
+### Hi there 👋, I am Toh Yong Jie
+#### Diploma in Infocomm Security Management Graduate
 ![RP](.png)
 
 Singaporean
