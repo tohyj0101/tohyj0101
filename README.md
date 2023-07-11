@@ -21,7 +21,6 @@ Skills: Cybersecurity
 
 ![Profile views](https://komarev.com/ghpvc/?username=tohyj0101&color=7fab11)
 
-[<script src="https://tryhackme.com/badge/1055492"></script>]
 
 <!--
 **tohyj0101/tohyj0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
