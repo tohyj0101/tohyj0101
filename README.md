@@ -55,18 +55,7 @@ I have hands-on experience from IT support internships, where I learned that the
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tohyj0101&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohyj0101&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<!-- 
-⚠️ NOTE: The Snake animation will show as a broken image until your GitHub Action finishes running. 
-Once it runs, you can uncomment the block below by removing the <!-- and --> lines.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tohyj0101/tohyj0101/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tohyj0101/tohyj0101/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tohyj0101/tohyj0101/output/github-snake.svg" />
-  </picture>
-</div>
--->
+<br/>
+<sub>Opinions are my own and subject to revision as I learn more.</sub>
