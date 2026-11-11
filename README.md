@@ -54,7 +54,7 @@ I have hands-on experience from IT support internships, where I learned that the
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tohyj0101&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tohyj0101&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <br/>
